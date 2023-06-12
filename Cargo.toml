@@ -1,7 +1,7 @@
 [package]
 name = "rust-rectangles"
 description = "Simple Rust program that calculates the area of a rectangle using variables, tuples, and structs"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "MIT"
 
